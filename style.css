@@ -1,0 +1,33 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .mainContainer
+  {
+    padding: 20px;
+  }
+  .time span
+  {
+    color: gray;
+    
+  }
+  .tweets
+  {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+  }
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  #loginAlert
+  {
+    display: none;
+  }
